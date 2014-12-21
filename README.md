@@ -9,6 +9,6 @@ Project Image:
 
 Circuit Diagram:
 
-![alt tag](https://github.com/Ali-Hirani/LED-Light-Show/blob/master/potentiometer.PNG)
+![alt tag](https://github.com/Ali-Hirani/Potentiometer-LED/blob/master/potentiometer.PNG)
 
 Generated using fritzing.
